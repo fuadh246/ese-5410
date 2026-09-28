@@ -221,3 +221,5 @@ __marimo__/
 
 # MacOS
 .DS_Store
+.idea/
+.agents/
